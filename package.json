@@ -1,0 +1,22 @@
+{
+  "name": "front-aphp-mockup",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "mdbreact": "^4.0.0",
+    "react": "^16.0.0",
+    "react-banner": "^0.4.0",
+    "react-dom": "^16.0.0",
+    "react-flexbox-grid": "^2.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "reactstrap": "^5.0.0-alpha.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
